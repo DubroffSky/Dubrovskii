@@ -1,0 +1,26 @@
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+h2.title,
+h2.title {
+        text-align: center;
+        text-decoration: underline;
+    }
+
+    p {
+        color: #8d8b88;
+    }
+
+    column.is-half {
+    position: relative;
+}
+
+.column.is-half img {
+    max-width: 50%;
+    height: auto;
+    border-radius: 40px; /* You can adjust the border-radius as needed */
+    margin-left: 6em;
+}

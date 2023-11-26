@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+html {
+    height: 100%;
+}
+
+#contact {
+    flex: 1;
+}
+
+footer {
+    margin-top: auto; /* Push the footer to the bottom */
+}
+
+a {
+    color: #8d8b88;
+}
+
+h2.title,
+h2.title {
+    text-align: center;
+    text-decoration: underline;
+}
+
+p {
+    color: #8d8b88;
+}
